@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="./src/assets/WhatsApp Image 2025-03-06 at 13.26.00 1.png" alt="Foto de Eriston Mendes Ferreira" width="120" style="border-radius: 16px;" />
-</p>
-
 🧩 Mini Projeto — Componentes Dinâmicos
 
 ⚠️ Nota:
