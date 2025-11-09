@@ -30,5 +30,5 @@ function Buttons({button, variant,...props}: ButtonProps & {type?: string}) {
     </>
   )
 }
-// teste
+
 export default Buttons
