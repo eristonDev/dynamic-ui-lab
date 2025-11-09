@@ -13,5 +13,6 @@ Uma lib de estudos com exemplos práticos de componentes front-end dinâmicos ut
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" />
 <img width="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="60" alt="tailwindcss logo" />
+<img width="60" />
 </div>
 
